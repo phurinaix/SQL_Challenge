@@ -1,1 +1,5 @@
-# SQL_Challenge
+# SQL_Challenges
+
+- Code Signal
+- Hackerrank
+- Leetcode
