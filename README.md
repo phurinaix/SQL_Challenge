@@ -1,5 +1,5 @@
-# SQL_Challenges
+# SQL Challenges
 
-- Code Signal
+- Code Signal (84 challenges)
 - Hackerrank
 - Leetcode
